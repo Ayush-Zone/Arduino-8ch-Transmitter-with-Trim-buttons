@@ -1,4 +1,4 @@
-// 8 Channel PPM Receiver
+// 8 Channel Transmitter with trim buttons
 // Ayush Sharma
 // https://github.com/Ayush-Zone
 
